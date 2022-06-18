@@ -1,1 +1,1 @@
-# Proiect-retele
+# Chat app
